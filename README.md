@@ -1,4 +1,4 @@
-# Developer-Python
+# Desafios do curso Developer Python
 
 # Desafio 1 do módulo 4 da Dio
 
