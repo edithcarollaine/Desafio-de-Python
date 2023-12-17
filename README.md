@@ -22,3 +22,6 @@ Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agreg
   - Defina uma coleção bank para criar os documetos de clientes
   - Insira documentos com a estrutura mencionada
   - Escreve instruções de recuperação de informações com base nos pares de chave e valor.
+
+ARQUIVO EXTRA:
+- Desafio para criar uma API com flask
