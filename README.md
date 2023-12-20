@@ -23,5 +23,11 @@ Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agreg
   - Insira documentos com a estrutura mencionada
   - Escreve instruções de recuperação de informações com base nos pares de chave e valor.
 
-ARQUIVO EXTRA:
-- Desafio para criar uma API com flask
+# Desafio com Frameworks
+OBS: Arquivo encontra-se fora da pasta Desafios
+  - Desafio para criar uma API com framework flask
+
+# Desafio com Pandas
+OBS: Arquivo encontra-se fora da pasta Desafios
+
+ - Tratamento de dados, knn, árvore de decisão e accuracy
