@@ -137,3 +137,5 @@ tecido.propriedades
 módulos.xml
 .idea/misc.xml
 *.ipr
+/shelf/
+/workspace.xml
