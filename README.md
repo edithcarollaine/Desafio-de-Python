@@ -1,33 +1,32 @@
-# Desafios do curso Developer Python
+# Desafios do curso Developer Python na DIO
 
-# Desafio 1 do módulo 4 da Dio
+# Diretório "Desafio com BD"
+# Desafio 1 - Criar:
 
 Implementando um Banco de Dados Relacional com SQLAlchemy
 Neste desafio você irá implementar uma aplicação de integração com SQLite com base em um esquema relacional disponibilizado. Sendo assim, utilize o esquema dentro do contexto de cliente e conta para criar as classes de sua API. Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação.
 
-
-# Criar:
   - Aplicação com a definição do esquema por meio das classes usando SQLAlchemy
   - Inserção de um conjunto de dados mínimo para manipulação das informações
   - Execução de métodos de recuperação de dados via SQLAlchemy
 
-# Desafio do 2 módulo 4 da Dio
-
+# Desafio 2 - Criar:
 Implementando um Banco de Dados NoSQL com Pymongo
 Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agregada do modelo relacional. Sendo assim, as informações de cliente e contas existentes estão contidas dentro de documentos de acordo com cliente.
 
-
-# Criar:
   - Conecte ao mongo atlas e crie um banco de dados
   - Defina uma coleção bank para criar os documetos de clientes
   - Insira documentos com a estrutura mencionada
   - Escreve instruções de recuperação de informações com base nos pares de chave e valor.
 
-# Desafio com Frameworks
-OBS: Arquivo encontra-se fora da pasta Desafios
-  - Desafio para criar uma API com framework flask
+# Diretório "Desafios com framework"
 
-# Desafio com Pandas
-OBS: Arquivo encontra-se fora da pasta Desafios
+  - Desafio para criar uma API que mostre uma JSON com framework flask
 
- - Tratamento de dados, knn, árvore de decisão e accuracy
+# Diretório "Desafios tratamento de dados"
+
+ - Utilizar o que aprendeu em relação a tratamento de dados com pandas. 
+ - Nesse arquivo tratei os dados como nas aulas, e após, inseri melhorias. Acrescentei:
+   - Machine learning kNN
+   - Accuracy 
+   - Árvore de decisão
